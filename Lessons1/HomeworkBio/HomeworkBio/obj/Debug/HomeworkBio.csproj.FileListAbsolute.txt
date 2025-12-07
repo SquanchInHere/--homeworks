@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\bin\Debug\HomeworkBio.exe.config
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\bin\Debug\HomeworkBio.exe
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\bin\Debug\HomeworkBio.pdb
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\obj\Debug\HomeworkBio.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\obj\Debug\HomeworkBio.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\obj\Debug\HomeworkBio.exe
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\obj\Debug\HomeworkBio.pdb
+F:\C#\HomeworkProjects\Lessons1\HomeworkBio\HomeworkBio\obj\Debug\HomeworkBio.exe.config

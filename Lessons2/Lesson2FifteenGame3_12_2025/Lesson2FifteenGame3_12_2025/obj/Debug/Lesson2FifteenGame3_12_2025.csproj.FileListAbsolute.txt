@@ -1,0 +1,7 @@
+F:\C#\HomeworkProjects\Lessons2\Lesson2FifteenGame3_12_2025\Lesson2FifteenGame3_12_2025\bin\Debug\Lesson2FifteenGame3_12_2025.exe.config
+F:\C#\HomeworkProjects\Lessons2\Lesson2FifteenGame3_12_2025\Lesson2FifteenGame3_12_2025\bin\Debug\Lesson2FifteenGame3_12_2025.exe
+F:\C#\HomeworkProjects\Lessons2\Lesson2FifteenGame3_12_2025\Lesson2FifteenGame3_12_2025\bin\Debug\Lesson2FifteenGame3_12_2025.pdb
+F:\C#\HomeworkProjects\Lessons2\Lesson2FifteenGame3_12_2025\Lesson2FifteenGame3_12_2025\obj\Debug\Lesson2FifteenGame3_12_2025.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons2\Lesson2FifteenGame3_12_2025\Lesson2FifteenGame3_12_2025\obj\Debug\Lesson2FifteenGame3_12_2025.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons2\Lesson2FifteenGame3_12_2025\Lesson2FifteenGame3_12_2025\obj\Debug\Lesson2FifteenGame3_12_2025.exe
+F:\C#\HomeworkProjects\Lessons2\Lesson2FifteenGame3_12_2025\Lesson2FifteenGame3_12_2025\obj\Debug\Lesson2FifteenGame3_12_2025.pdb

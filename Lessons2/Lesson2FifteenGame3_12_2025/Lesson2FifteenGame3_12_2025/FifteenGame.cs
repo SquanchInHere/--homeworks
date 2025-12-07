@@ -110,9 +110,7 @@ namespace Lesson2FifteenGame3_12_2025
             int ny = emptyY + y;
 
             if (nx < 0 || nx > 3 || ny < 0 || ny > 3)
-            {
                 return;
-            }
 
             matrix[emptyX, emptyY] = matrix[nx, ny];
             matrix[nx, ny] = 0;

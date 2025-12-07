@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\bin\Debug\ShuffleNumber.exe.config
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\bin\Debug\ShuffleNumber.exe
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\bin\Debug\ShuffleNumber.pdb
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\obj\Debug\ShuffleNumber.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\obj\Debug\ShuffleNumber.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\obj\Debug\ShuffleNumber.exe
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\obj\Debug\ShuffleNumber.pdb
+F:\C#\HomeworkProjects\Lessons2\ShuffleNumber\ShuffleNumber\obj\Debug\ShuffleNumber.exe.config

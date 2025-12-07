@@ -1,0 +1,7 @@
+F:\C#\HomeworkProjects\Lessons2\CalcPercentage\CalcPercentage\bin\Debug\CalcPercentage.exe.config
+F:\C#\HomeworkProjects\Lessons2\CalcPercentage\CalcPercentage\bin\Debug\CalcPercentage.exe
+F:\C#\HomeworkProjects\Lessons2\CalcPercentage\CalcPercentage\bin\Debug\CalcPercentage.pdb
+F:\C#\HomeworkProjects\Lessons2\CalcPercentage\CalcPercentage\obj\Debug\CalcPercentage.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons2\CalcPercentage\CalcPercentage\obj\Debug\CalcPercentage.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons2\CalcPercentage\CalcPercentage\obj\Debug\CalcPercentage.exe
+F:\C#\HomeworkProjects\Lessons2\CalcPercentage\CalcPercentage\obj\Debug\CalcPercentage.pdb

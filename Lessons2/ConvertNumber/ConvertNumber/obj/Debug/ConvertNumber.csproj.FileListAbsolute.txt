@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\bin\Debug\ConvertNumber.exe.config
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\bin\Debug\ConvertNumber.exe
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\bin\Debug\ConvertNumber.pdb
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\obj\Debug\ConvertNumber.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\obj\Debug\ConvertNumber.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\obj\Debug\ConvertNumber.exe
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\obj\Debug\ConvertNumber.pdb
+F:\C#\HomeworkProjects\Lessons2\ConvertNumber\ConvertNumber\obj\Debug\ConvertNumber.exe.config

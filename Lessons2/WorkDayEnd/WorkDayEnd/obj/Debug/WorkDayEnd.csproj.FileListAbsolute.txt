@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\obj\Debug\WorkDayEnd.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\obj\Debug\WorkDayEnd.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\bin\Debug\WorkDayEnd.exe.config
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\bin\Debug\WorkDayEnd.exe
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\bin\Debug\WorkDayEnd.pdb
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\obj\Debug\WorkDayEnd.exe
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\obj\Debug\WorkDayEnd.pdb
+F:\C#\HomeworkProjects\Lessons2\WorkDayEnd\WorkDayEnd\obj\Debug\WorkDayEnd.exe.config

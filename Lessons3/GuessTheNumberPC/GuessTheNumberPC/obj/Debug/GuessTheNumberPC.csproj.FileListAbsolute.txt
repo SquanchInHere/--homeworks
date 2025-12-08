@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\bin\Debug\GuessTheNumberPC.exe.config
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\bin\Debug\GuessTheNumberPC.exe
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\bin\Debug\GuessTheNumberPC.pdb
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\obj\Debug\GuessTheNumberPC.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\obj\Debug\GuessTheNumberPC.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\obj\Debug\GuessTheNumberPC.exe
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\obj\Debug\GuessTheNumberPC.pdb
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumberPC\GuessTheNumberPC\obj\Debug\GuessTheNumberPC.exe.config

@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
+F:\C#\HomeworkProjects\Lessons3\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe.config

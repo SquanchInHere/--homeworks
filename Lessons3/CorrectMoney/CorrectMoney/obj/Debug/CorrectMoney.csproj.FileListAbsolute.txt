@@ -1,0 +1,7 @@
+F:\C#\HomeworkProjects\Lessons3\CorrectMoney\CorrectMoney\bin\Debug\CorrectMoney.exe.config
+F:\C#\HomeworkProjects\Lessons3\CorrectMoney\CorrectMoney\bin\Debug\CorrectMoney.exe
+F:\C#\HomeworkProjects\Lessons3\CorrectMoney\CorrectMoney\bin\Debug\CorrectMoney.pdb
+F:\C#\HomeworkProjects\Lessons3\CorrectMoney\CorrectMoney\obj\Debug\CorrectMoney.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons3\CorrectMoney\CorrectMoney\obj\Debug\CorrectMoney.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\CorrectMoney\CorrectMoney\obj\Debug\CorrectMoney.exe
+F:\C#\HomeworkProjects\Lessons3\CorrectMoney\CorrectMoney\obj\Debug\CorrectMoney.pdb

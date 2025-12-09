@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\bin\Debug\RunnersSpeed.exe.config
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\bin\Debug\RunnersSpeed.exe
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\bin\Debug\RunnersSpeed.pdb
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\obj\Debug\RunnersSpeed.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\obj\Debug\RunnersSpeed.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\obj\Debug\RunnersSpeed.exe
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\obj\Debug\RunnersSpeed.pdb
+F:\C#\HomeworkProjects\Lessons3\RunnersSpeed\RunnersSpeed\obj\Debug\RunnersSpeed.exe.config

@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\bin\Debug\FormatDays.exe.config
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\bin\Debug\FormatDays.exe
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\bin\Debug\FormatDays.pdb
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\obj\Debug\FormatDays.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\obj\Debug\FormatDays.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\obj\Debug\FormatDays.exe
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\obj\Debug\FormatDays.pdb
+F:\C#\HomeworkProjects\Lessons3\FormatDays\FormatDays\obj\Debug\FormatDays.exe.config

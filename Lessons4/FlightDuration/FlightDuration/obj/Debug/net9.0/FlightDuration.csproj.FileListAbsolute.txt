@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\bin\Debug\net9.0\FlightDuration.exe
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\bin\Debug\net9.0\FlightDuration.deps.json
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\bin\Debug\net9.0\FlightDuration.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\bin\Debug\net9.0\FlightDuration.dll
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\bin\Debug\net9.0\FlightDuration.pdb
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.sourcelink.json
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.dll
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\refint\FlightDuration.dll
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.pdb
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\FlightDuration.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons4\FlightDuration\FlightDuration\obj\Debug\net9.0\ref\FlightDuration.dll

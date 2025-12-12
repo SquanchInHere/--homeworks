@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\bin\Debug\net9.0\AverageScore.exe
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\bin\Debug\net9.0\AverageScore.deps.json
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\bin\Debug\net9.0\AverageScore.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\bin\Debug\net9.0\AverageScore.dll
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\bin\Debug\net9.0\AverageScore.pdb
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.sourcelink.json
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.dll
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\refint\AverageScore.dll
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.pdb
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\AverageScore.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons4\AverageScore\AverageScore\obj\Debug\net9.0\ref\AverageScore.dll

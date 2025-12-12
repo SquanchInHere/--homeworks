@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\bin\Debug\net9.0\LeftDateTime.exe
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\bin\Debug\net9.0\LeftDateTime.deps.json
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\bin\Debug\net9.0\LeftDateTime.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\bin\Debug\net9.0\LeftDateTime.dll
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\bin\Debug\net9.0\LeftDateTime.pdb
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.sourcelink.json
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.dll
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\refint\LeftDateTime.dll
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.pdb
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\LeftDateTime.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons3\LeftDateTime\LeftDateTime\obj\Debug\net9.0\ref\LeftDateTime.dll

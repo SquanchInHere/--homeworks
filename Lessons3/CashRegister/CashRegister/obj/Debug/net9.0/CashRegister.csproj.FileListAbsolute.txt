@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\bin\Debug\net9.0\CashRegister.exe
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\bin\Debug\net9.0\CashRegister.deps.json
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\bin\Debug\net9.0\CashRegister.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\bin\Debug\net9.0\CashRegister.dll
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\bin\Debug\net9.0\CashRegister.pdb
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.sourcelink.json
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.dll
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\refint\CashRegister.dll
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.pdb
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\CashRegister.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons3\CashRegister\CashRegister\obj\Debug\net9.0\ref\CashRegister.dll

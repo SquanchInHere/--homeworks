@@ -1,0 +1,8 @@
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\bin\Debug\Parallelepiped.exe.config
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\bin\Debug\Parallelepiped.exe
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\bin\Debug\Parallelepiped.pdb
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\obj\Debug\Parallelepiped.csproj.AssemblyReference.cache
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\obj\Debug\Parallelepiped.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\obj\Debug\Parallelepiped.exe
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\obj\Debug\Parallelepiped.pdb
+F:\C#\HomeworkProjects\Lessons3\Parallelepiped\Parallelepiped\obj\Debug\Parallelepiped.exe.config

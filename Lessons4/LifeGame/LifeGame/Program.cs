@@ -44,7 +44,7 @@ namespace LifeGame
             }
 
             Console.Clear();
-            Console.WriteLine(win ? "Ви перемогли!" : "Ви загинули");
+            Console.WriteLine(win ? $"Ви перемогли! пройшло циклів {tickCount}" : $"Ви загинули пройшло циклів {tickCount}");
             Console.ReadKey();
         }
 

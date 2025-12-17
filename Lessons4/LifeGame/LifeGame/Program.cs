@@ -7,10 +7,11 @@ namespace LifeGame
     {
         const int W = 5;
         const int H = 10;
-
         const int START_HP = 10;
         const int DMG_LONELY = 1;
         const int DMG_OVERPOP = 2;
+        const int SPAWN_PROC = 20;
+        const int START_CELLS = 4;
 
         static bool[,] alive = new bool[H, W];
         static int[,] hp = new int[H, W];
@@ -25,9 +26,6 @@ namespace LifeGame
 
         static bool gameOver = false;
         static bool win = false;
-
-        const int SPAWN_PROC = 20;
-        const int START_CELLS = 4;
 
         static void Main()
         {

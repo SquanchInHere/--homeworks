@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\bin\Release\net9.0\LifeGame.exe
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\bin\Release\net9.0\LifeGame.deps.json
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\bin\Release\net9.0\LifeGame.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\bin\Release\net9.0\LifeGame.dll
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\bin\Release\net9.0\LifeGame.pdb
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.sourcelink.json
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.dll
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\refint\LifeGame.dll
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.pdb
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\LifeGame.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons4\LifeGame\LifeGame\obj\Release\net9.0\ref\LifeGame.dll

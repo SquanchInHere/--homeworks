@@ -1,5 +1,4 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 
 namespace LifeGame
 {
@@ -291,7 +290,7 @@ namespace LifeGame
 
         static void Help()
         {
-            Console.WriteLine("Для того щоб передвинути свою клітинку життя використовуйте (\"\u2191 \u2193 \u2190 \u2192\");");
+            Console.WriteLine("Гра в життя");
             Console.WriteLine("Управління:");
             Console.WriteLine("\u2191 — вгору");
             Console.WriteLine("\u2193 — вниз");

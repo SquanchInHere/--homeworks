@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bed565b3b7bf33abcdc8a440e61d292cfa9a90c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11cc1309bcdd4cb59950a94c5eec81f31c9f8522")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

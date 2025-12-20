@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\bin\Debug\net9.0\SalaryVasya.exe
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\bin\Debug\net9.0\SalaryVasya.deps.json
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\bin\Debug\net9.0\SalaryVasya.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\bin\Debug\net9.0\SalaryVasya.dll
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\bin\Debug\net9.0\SalaryVasya.pdb
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.sourcelink.json
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.dll
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\refint\SalaryVasya.dll
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.pdb
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\SalaryVasya.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons5\SalaryVasya\obj\Debug\net9.0\ref\SalaryVasya.dll

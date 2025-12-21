@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons5\BrickSize\bin\Debug\net9.0\BrickSize.exe
+F:\C#\HomeworkProjects\Lessons5\BrickSize\bin\Debug\net9.0\BrickSize.deps.json
+F:\C#\HomeworkProjects\Lessons5\BrickSize\bin\Debug\net9.0\BrickSize.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons5\BrickSize\bin\Debug\net9.0\BrickSize.dll
+F:\C#\HomeworkProjects\Lessons5\BrickSize\bin\Debug\net9.0\BrickSize.pdb
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.sourcelink.json
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.dll
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\refint\BrickSize.dll
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.pdb
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\BrickSize.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons5\BrickSize\obj\Debug\net9.0\ref\BrickSize.dll

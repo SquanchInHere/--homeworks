@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrickSize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90c618a7892d4d2e8dbfda70c67ddea3736ff782")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75158d354695deb8891066976be4848310aad689")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrickSize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrickSize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

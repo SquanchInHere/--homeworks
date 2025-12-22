@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\bin\Debug\net9.0\LifeGame2.exe
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\bin\Debug\net9.0\LifeGame2.deps.json
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\bin\Debug\net9.0\LifeGame2.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\bin\Debug\net9.0\LifeGame2.dll
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\bin\Debug\net9.0\LifeGame2.pdb
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.sourcelink.json
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.dll
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\refint\LifeGame2.dll
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.pdb
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\LifeGame2.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons5\LifeGame2\obj\Debug\net9.0\ref\LifeGame2.dll

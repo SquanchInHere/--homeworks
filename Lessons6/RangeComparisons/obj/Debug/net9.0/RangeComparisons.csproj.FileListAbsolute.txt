@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\bin\Debug\net9.0\RangeComparisons.exe
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\bin\Debug\net9.0\RangeComparisons.deps.json
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\bin\Debug\net9.0\RangeComparisons.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\bin\Debug\net9.0\RangeComparisons.dll
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\bin\Debug\net9.0\RangeComparisons.pdb
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.sourcelink.json
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.dll
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\refint\RangeComparisons.dll
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.pdb
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\RangeComparisons.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons6\RangeComparisons\obj\Debug\net9.0\ref\RangeComparisons.dll

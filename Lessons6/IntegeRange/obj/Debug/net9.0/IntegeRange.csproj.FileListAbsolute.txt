@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\bin\Debug\net9.0\IntegeRange.exe
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\bin\Debug\net9.0\IntegeRange.deps.json
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\bin\Debug\net9.0\IntegeRange.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\bin\Debug\net9.0\IntegeRange.dll
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\bin\Debug\net9.0\IntegeRange.pdb
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.sourcelink.json
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.dll
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\refint\IntegeRange.dll
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.pdb
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\IntegeRange.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons6\IntegeRange\obj\Debug\net9.0\ref\IntegeRange.dll

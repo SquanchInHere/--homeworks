@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\bin\Debug\net9.0\MultipplicationTable.exe
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\bin\Debug\net9.0\MultipplicationTable.deps.json
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\bin\Debug\net9.0\MultipplicationTable.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\bin\Debug\net9.0\MultipplicationTable.dll
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\bin\Debug\net9.0\MultipplicationTable.pdb
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.sourcelink.json
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.dll
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\refint\MultipplicationTable.dll
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.pdb
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\MultipplicationTable.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons6\ConsoleApp1\obj\Debug\net9.0\ref\MultipplicationTable.dll

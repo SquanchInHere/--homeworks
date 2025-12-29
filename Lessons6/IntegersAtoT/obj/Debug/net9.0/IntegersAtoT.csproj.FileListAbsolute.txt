@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\bin\Debug\net9.0\IntegersAtoT.exe
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\bin\Debug\net9.0\IntegersAtoT.deps.json
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\bin\Debug\net9.0\IntegersAtoT.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\bin\Debug\net9.0\IntegersAtoT.dll
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\bin\Debug\net9.0\IntegersAtoT.pdb
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.sourcelink.json
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.dll
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\refint\IntegersAtoT.dll
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.pdb
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\IntegersAtoT.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons6\IntegersAtoT\obj\Debug\net9.0\ref\IntegersAtoT.dll

@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\bin\Debug\net9.0\SumNumbers.exe
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\bin\Debug\net9.0\SumNumbers.deps.json
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\bin\Debug\net9.0\SumNumbers.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\bin\Debug\net9.0\SumNumbers.dll
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\bin\Debug\net9.0\SumNumbers.pdb
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.sourcelink.json
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.dll
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\refint\SumNumbers.dll
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.pdb
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\SumNumbers.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons6\SumNumbers\obj\Debug\net9.0\ref\SumNumbers.dll

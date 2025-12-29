@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\bin\Debug\net9.0\GuessTheNumber2.exe
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\bin\Debug\net9.0\GuessTheNumber2.deps.json
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\bin\Debug\net9.0\GuessTheNumber2.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\bin\Debug\net9.0\GuessTheNumber2.dll
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\bin\Debug\net9.0\GuessTheNumber2.pdb
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.sourcelink.json
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.dll
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\refint\GuessTheNumber2.dll
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.pdb
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\GuessTheNumber2.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons6\GuessTheNumber2\obj\Debug\net9.0\ref\GuessTheNumber2.dll

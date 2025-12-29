@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipplicationTable", "MultipplicationTable.csproj", "{D78AF026-50DB-47E2-A16F-8252F04EF305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78AF026-50DB-47E2-A16F-8252F04EF305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78AF026-50DB-47E2-A16F-8252F04EF305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78AF026-50DB-47E2-A16F-8252F04EF305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78AF026-50DB-47E2-A16F-8252F04EF305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B8FF29-FB9A-4865-8C79-F7D9CB6362F4}
+	EndGlobalSection
+EndGlobal

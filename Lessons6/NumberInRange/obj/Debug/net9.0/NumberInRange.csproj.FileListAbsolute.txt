@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\bin\Debug\net9.0\NumberInRange.exe
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\bin\Debug\net9.0\NumberInRange.deps.json
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\bin\Debug\net9.0\NumberInRange.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\bin\Debug\net9.0\NumberInRange.dll
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\bin\Debug\net9.0\NumberInRange.pdb
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.sourcelink.json
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.dll
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\refint\NumberInRange.dll
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.pdb
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\NumberInRange.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons6\NumberInRange\obj\Debug\net9.0\ref\NumberInRange.dll

@@ -10,7 +10,7 @@ namespace GuessTheNumber2
         const int min = 1;
         const int max = 500;
 
-        static void Main()
+        static void Main(string[] args)
         {
             secret = rnd.Next(min, max + 1);
 

@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons7\Rectangle\bin\Debug\net9.0\Rectangle.exe
+F:\C#\HomeworkProjects\Lessons7\Rectangle\bin\Debug\net9.0\Rectangle.deps.json
+F:\C#\HomeworkProjects\Lessons7\Rectangle\bin\Debug\net9.0\Rectangle.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons7\Rectangle\bin\Debug\net9.0\Rectangle.dll
+F:\C#\HomeworkProjects\Lessons7\Rectangle\bin\Debug\net9.0\Rectangle.pdb
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.sourcelink.json
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.dll
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\refint\Rectangle.dll
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.pdb
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\Rectangle.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons7\Rectangle\obj\Debug\net9.0\ref\Rectangle.dll

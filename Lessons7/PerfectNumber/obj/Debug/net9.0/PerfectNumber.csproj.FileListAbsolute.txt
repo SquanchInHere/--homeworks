@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\bin\Debug\net9.0\PerfectNumber.exe
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\bin\Debug\net9.0\PerfectNumber.deps.json
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\bin\Debug\net9.0\PerfectNumber.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\bin\Debug\net9.0\PerfectNumber.dll
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\bin\Debug\net9.0\PerfectNumber.pdb
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.sourcelink.json
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.dll
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\refint\PerfectNumber.dll
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.pdb
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\PerfectNumber.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons7\PerfectNumber\obj\Debug\net9.0\ref\PerfectNumber.dll

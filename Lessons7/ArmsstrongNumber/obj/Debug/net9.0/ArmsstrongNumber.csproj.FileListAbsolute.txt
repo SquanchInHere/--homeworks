@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\bin\Debug\net9.0\ArmsstrongNumber.exe
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\bin\Debug\net9.0\ArmsstrongNumber.deps.json
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\bin\Debug\net9.0\ArmsstrongNumber.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\bin\Debug\net9.0\ArmsstrongNumber.dll
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\bin\Debug\net9.0\ArmsstrongNumber.pdb
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.sourcelink.json
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.dll
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\refint\ArmsstrongNumber.dll
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.pdb
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ArmsstrongNumber.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons7\ArmsstrongNumber\obj\Debug\net9.0\ref\ArmsstrongNumber.dll

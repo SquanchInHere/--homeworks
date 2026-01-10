@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BrickSize")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Dice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+108604e45640dc4142a43f63ab95d1db07db13ba")]
-[assembly: System.Reflection.AssemblyProductAttribute("BrickSize")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BrickSize")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d86ae8e768e3ddd5a59ff80f765b544dc4a679")]
+[assembly: System.Reflection.AssemblyProductAttribute("Dice")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Dice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

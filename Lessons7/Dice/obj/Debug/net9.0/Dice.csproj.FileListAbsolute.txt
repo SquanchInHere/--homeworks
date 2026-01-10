@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons7\Dice\bin\Debug\net9.0\Dice.exe
+F:\C#\HomeworkProjects\Lessons7\Dice\bin\Debug\net9.0\Dice.deps.json
+F:\C#\HomeworkProjects\Lessons7\Dice\bin\Debug\net9.0\Dice.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons7\Dice\bin\Debug\net9.0\Dice.dll
+F:\C#\HomeworkProjects\Lessons7\Dice\bin\Debug\net9.0\Dice.pdb
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.sourcelink.json
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.dll
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\refint\Dice.dll
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.pdb
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\Dice.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons7\Dice\obj\Debug\net9.0\ref\Dice.dll

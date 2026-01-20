@@ -1,0 +1,15 @@
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\bin\Debug\net9.0\GuessMyNumber.exe
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\bin\Debug\net9.0\GuessMyNumber.deps.json
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\bin\Debug\net9.0\GuessMyNumber.runtimeconfig.json
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\bin\Debug\net9.0\GuessMyNumber.dll
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\bin\Debug\net9.0\GuessMyNumber.pdb
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.AssemblyInfoInputs.cache
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.AssemblyInfo.cs
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.csproj.CoreCompileInputs.cache
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.sourcelink.json
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.dll
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\refint\GuessMyNumber.dll
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.pdb
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\GuessMyNumber.genruntimeconfig.cache
+F:\C#\LessonsProjects\Lesson10\GuessMyNumber\obj\Debug\net9.0\ref\GuessMyNumber.dll

@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons8\Gallows\bin\Debug\net9.0\Gallows.exe
+F:\C#\HomeworkProjects\Lessons8\Gallows\bin\Debug\net9.0\Gallows.deps.json
+F:\C#\HomeworkProjects\Lessons8\Gallows\bin\Debug\net9.0\Gallows.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons8\Gallows\bin\Debug\net9.0\Gallows.dll
+F:\C#\HomeworkProjects\Lessons8\Gallows\bin\Debug\net9.0\Gallows.pdb
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.sourcelink.json
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.dll
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\refint\Gallows.dll
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.pdb
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\Gallows.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons8\Gallows\obj\Debug\net9.0\ref\Gallows.dll

@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons8\Figures\bin\Debug\net9.0\Figures.exe
+F:\C#\HomeworkProjects\Lessons8\Figures\bin\Debug\net9.0\Figures.deps.json
+F:\C#\HomeworkProjects\Lessons8\Figures\bin\Debug\net9.0\Figures.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons8\Figures\bin\Debug\net9.0\Figures.dll
+F:\C#\HomeworkProjects\Lessons8\Figures\bin\Debug\net9.0\Figures.pdb
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.sourcelink.json
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.dll
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\refint\Figures.dll
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.pdb
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\Figures.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons8\Figures\obj\Debug\net9.0\ref\Figures.dll

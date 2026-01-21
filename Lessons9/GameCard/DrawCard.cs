@@ -8,7 +8,7 @@ namespace GameCard
 {
     public static class DrawCard
     {
-        public static void run()
+        public static void Run()
         {
             Console.OutputEncoding = Encoding.UTF8;
 

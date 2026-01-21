@@ -8,7 +8,7 @@ namespace CalcSalary
 {
     internal class Calculate
     {
-        public static void run(double hours = 45)
+        public static void Run(double hours = 45)
         {
             CalcSalary(hours, out double gross, out double tax, out double net);
 

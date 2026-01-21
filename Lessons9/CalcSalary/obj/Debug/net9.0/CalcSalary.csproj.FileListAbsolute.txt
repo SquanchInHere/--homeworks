@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\bin\Debug\net9.0\CalcSalary.exe
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\bin\Debug\net9.0\CalcSalary.deps.json
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\bin\Debug\net9.0\CalcSalary.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\bin\Debug\net9.0\CalcSalary.dll
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\bin\Debug\net9.0\CalcSalary.pdb
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.sourcelink.json
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.dll
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\refint\CalcSalary.dll
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.pdb
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\CalcSalary.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons9\CalcSalary\obj\Debug\net9.0\ref\CalcSalary.dll

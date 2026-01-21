@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\bin\Debug\net9.0\NumberGridPrinter.exe
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\bin\Debug\net9.0\NumberGridPrinter.deps.json
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\bin\Debug\net9.0\NumberGridPrinter.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\bin\Debug\net9.0\NumberGridPrinter.dll
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\bin\Debug\net9.0\NumberGridPrinter.pdb
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.sourcelink.json
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.dll
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\refint\NumberGridPrinter.dll
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.pdb
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\NumberGridPrinter.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons9\NumberGridPrinter\obj\Debug\net9.0\ref\NumberGridPrinter.dll

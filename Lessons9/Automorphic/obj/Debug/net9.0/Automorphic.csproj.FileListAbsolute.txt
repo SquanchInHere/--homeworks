@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons9\Automorphic\bin\Debug\net9.0\Automorphic.exe
+F:\C#\HomeworkProjects\Lessons9\Automorphic\bin\Debug\net9.0\Automorphic.deps.json
+F:\C#\HomeworkProjects\Lessons9\Automorphic\bin\Debug\net9.0\Automorphic.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons9\Automorphic\bin\Debug\net9.0\Automorphic.dll
+F:\C#\HomeworkProjects\Lessons9\Automorphic\bin\Debug\net9.0\Automorphic.pdb
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.sourcelink.json
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.dll
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\refint\Automorphic.dll
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.pdb
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\Automorphic.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons9\Automorphic\obj\Debug\net9.0\ref\Automorphic.dll

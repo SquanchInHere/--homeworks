@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons11\TornArr\bin\Debug\net9.0\TornArr.exe
+F:\C#\HomeworkProjects\Lessons11\TornArr\bin\Debug\net9.0\TornArr.deps.json
+F:\C#\HomeworkProjects\Lessons11\TornArr\bin\Debug\net9.0\TornArr.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons11\TornArr\bin\Debug\net9.0\TornArr.dll
+F:\C#\HomeworkProjects\Lessons11\TornArr\bin\Debug\net9.0\TornArr.pdb
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.sourcelink.json
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.dll
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\refint\TornArr.dll
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.pdb
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\TornArr.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons11\TornArr\obj\Debug\net9.0\ref\TornArr.dll

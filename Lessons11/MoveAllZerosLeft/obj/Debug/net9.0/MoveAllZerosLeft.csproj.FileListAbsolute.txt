@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\bin\Debug\net9.0\MoveAllZerosLeft.exe
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\bin\Debug\net9.0\MoveAllZerosLeft.deps.json
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\bin\Debug\net9.0\MoveAllZerosLeft.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\bin\Debug\net9.0\MoveAllZerosLeft.dll
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\bin\Debug\net9.0\MoveAllZerosLeft.pdb
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.sourcelink.json
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.dll
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\refint\MoveAllZerosLeft.dll
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.pdb
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\MoveAllZerosLeft.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons11\MoveAllZerosLeft\obj\Debug\net9.0\ref\MoveAllZerosLeft.dll

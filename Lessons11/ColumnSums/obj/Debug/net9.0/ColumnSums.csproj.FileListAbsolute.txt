@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\bin\Debug\net9.0\ColumnSums.exe
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\bin\Debug\net9.0\ColumnSums.deps.json
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\bin\Debug\net9.0\ColumnSums.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\bin\Debug\net9.0\ColumnSums.dll
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\bin\Debug\net9.0\ColumnSums.pdb
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.sourcelink.json
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.dll
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\refint\ColumnSums.dll
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.pdb
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ColumnSums.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons11\ColumnSums\obj\Debug\net9.0\ref\ColumnSums.dll

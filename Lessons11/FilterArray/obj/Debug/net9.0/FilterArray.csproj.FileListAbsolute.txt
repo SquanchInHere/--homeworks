@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons11\FilterArray\bin\Debug\net9.0\FilterArray.exe
+F:\C#\HomeworkProjects\Lessons11\FilterArray\bin\Debug\net9.0\FilterArray.deps.json
+F:\C#\HomeworkProjects\Lessons11\FilterArray\bin\Debug\net9.0\FilterArray.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons11\FilterArray\bin\Debug\net9.0\FilterArray.dll
+F:\C#\HomeworkProjects\Lessons11\FilterArray\bin\Debug\net9.0\FilterArray.pdb
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.sourcelink.json
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.dll
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\refint\FilterArray.dll
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.pdb
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\FilterArray.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons11\FilterArray\obj\Debug\net9.0\ref\FilterArray.dll

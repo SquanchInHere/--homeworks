@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\bin\Debug\net9.0\BullsAndCows.exe
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\bin\Debug\net9.0\BullsAndCows.deps.json
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\bin\Debug\net9.0\BullsAndCows.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\bin\Debug\net9.0\BullsAndCows.dll
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\bin\Debug\net9.0\BullsAndCows.pdb
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.sourcelink.json
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.dll
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\refint\BullsAndCows.dll
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.pdb
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\BullsAndCows.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons10\BullsAndCows\obj\Debug\net9.0\ref\BullsAndCows.dll

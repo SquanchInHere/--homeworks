@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons13\Game2048\bin\Debug\net9.0\Game2048.exe
+F:\C#\HomeworkProjects\Lessons13\Game2048\bin\Debug\net9.0\Game2048.deps.json
+F:\C#\HomeworkProjects\Lessons13\Game2048\bin\Debug\net9.0\Game2048.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons13\Game2048\bin\Debug\net9.0\Game2048.dll
+F:\C#\HomeworkProjects\Lessons13\Game2048\bin\Debug\net9.0\Game2048.pdb
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.sourcelink.json
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.dll
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\refint\Game2048.dll
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.pdb
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\Game2048.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons13\Game2048\obj\Debug\net9.0\ref\Game2048.dll

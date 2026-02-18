@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\bin\Debug\net9.0\SpawnTile.exe
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\bin\Debug\net9.0\SpawnTile.deps.json
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\bin\Debug\net9.0\SpawnTile.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\bin\Debug\net9.0\SpawnTile.dll
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\bin\Debug\net9.0\SpawnTile.pdb
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.sourcelink.json
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.dll
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\refint\SpawnTile.dll
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.pdb
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\SpawnTile.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons12\SpawnTile\obj\Debug\net9.0\ref\SpawnTile.dll

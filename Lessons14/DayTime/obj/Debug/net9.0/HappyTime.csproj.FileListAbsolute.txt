@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons14\DayTime\bin\Debug\net9.0\HappyTime.exe
+F:\C#\HomeworkProjects\Lessons14\DayTime\bin\Debug\net9.0\HappyTime.deps.json
+F:\C#\HomeworkProjects\Lessons14\DayTime\bin\Debug\net9.0\HappyTime.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons14\DayTime\bin\Debug\net9.0\HappyTime.dll
+F:\C#\HomeworkProjects\Lessons14\DayTime\bin\Debug\net9.0\HappyTime.pdb
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.sourcelink.json
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.dll
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\refint\HappyTime.dll
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.pdb
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\HappyTime.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons14\DayTime\obj\Debug\net9.0\ref\HappyTime.dll

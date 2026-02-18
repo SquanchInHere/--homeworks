@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\bin\Debug\net9.0\SubtractRow.exe
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\bin\Debug\net9.0\SubtractRow.deps.json
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\bin\Debug\net9.0\SubtractRow.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\bin\Debug\net9.0\SubtractRow.dll
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\bin\Debug\net9.0\SubtractRow.pdb
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.sourcelink.json
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.dll
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\refint\SubtractRow.dll
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.pdb
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\SubtractRow.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons14\SubtractRow\obj\Debug\net9.0\ref\SubtractRow.dll

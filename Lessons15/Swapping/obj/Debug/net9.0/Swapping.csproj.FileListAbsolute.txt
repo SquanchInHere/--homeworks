@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons15\Swapping\bin\Debug\net9.0\Swapping.exe
+F:\C#\HomeworkProjects\Lessons15\Swapping\bin\Debug\net9.0\Swapping.deps.json
+F:\C#\HomeworkProjects\Lessons15\Swapping\bin\Debug\net9.0\Swapping.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons15\Swapping\bin\Debug\net9.0\Swapping.dll
+F:\C#\HomeworkProjects\Lessons15\Swapping\bin\Debug\net9.0\Swapping.pdb
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.sourcelink.json
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.dll
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\refint\Swapping.dll
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.pdb
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\Swapping.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons15\Swapping\obj\Debug\net9.0\ref\Swapping.dll

@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons15\Spiral\bin\Debug\net9.0\Spiral.exe
+F:\C#\HomeworkProjects\Lessons15\Spiral\bin\Debug\net9.0\Spiral.deps.json
+F:\C#\HomeworkProjects\Lessons15\Spiral\bin\Debug\net9.0\Spiral.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons15\Spiral\bin\Debug\net9.0\Spiral.dll
+F:\C#\HomeworkProjects\Lessons15\Spiral\bin\Debug\net9.0\Spiral.pdb
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.sourcelink.json
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.dll
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\refint\Spiral.dll
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.pdb
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\Spiral.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons15\Spiral\obj\Debug\net9.0\ref\Spiral.dll

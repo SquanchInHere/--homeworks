@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons15\Magic\bin\Debug\net9.0\Magic.exe
+F:\C#\HomeworkProjects\Lessons15\Magic\bin\Debug\net9.0\Magic.deps.json
+F:\C#\HomeworkProjects\Lessons15\Magic\bin\Debug\net9.0\Magic.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons15\Magic\bin\Debug\net9.0\Magic.dll
+F:\C#\HomeworkProjects\Lessons15\Magic\bin\Debug\net9.0\Magic.pdb
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.sourcelink.json
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.dll
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\refint\Magic.dll
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.pdb
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\Magic.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons15\Magic\obj\Debug\net9.0\ref\Magic.dll

@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons18\WebSite\bin\Debug\net10.0\WebSite.exe
+F:\C#\HomeworkProjects\Lessons18\WebSite\bin\Debug\net10.0\WebSite.deps.json
+F:\C#\HomeworkProjects\Lessons18\WebSite\bin\Debug\net10.0\WebSite.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons18\WebSite\bin\Debug\net10.0\WebSite.dll
+F:\C#\HomeworkProjects\Lessons18\WebSite\bin\Debug\net10.0\WebSite.pdb
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.sourcelink.json
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.dll
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\refint\WebSite.dll
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.pdb
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\WebSite.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons18\WebSite\obj\Debug\net10.0\ref\WebSite.dll

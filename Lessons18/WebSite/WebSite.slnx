@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Journal/Journal.csproj" />
+  <Project Path="WebSite.csproj" />
+</Solution>

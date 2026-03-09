@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons18\Journal\bin\Debug\net10.0\Journal.exe
+F:\C#\HomeworkProjects\Lessons18\Journal\bin\Debug\net10.0\Journal.deps.json
+F:\C#\HomeworkProjects\Lessons18\Journal\bin\Debug\net10.0\Journal.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons18\Journal\bin\Debug\net10.0\Journal.dll
+F:\C#\HomeworkProjects\Lessons18\Journal\bin\Debug\net10.0\Journal.pdb
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.sourcelink.json
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.dll
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\refint\Journal.dll
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.pdb
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\Journal.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons18\Journal\obj\Debug\net10.0\ref\Journal.dll

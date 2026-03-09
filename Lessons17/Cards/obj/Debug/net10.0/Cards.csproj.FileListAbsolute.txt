@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.sourcelink.json
+F:\C#\HomeworkProjects\Lessons17\Cards\bin\Debug\net10.0\Cards.exe
+F:\C#\HomeworkProjects\Lessons17\Cards\bin\Debug\net10.0\Cards.deps.json
+F:\C#\HomeworkProjects\Lessons17\Cards\bin\Debug\net10.0\Cards.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons17\Cards\bin\Debug\net10.0\Cards.dll
+F:\C#\HomeworkProjects\Lessons17\Cards\bin\Debug\net10.0\Cards.pdb
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.dll
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\refint\Cards.dll
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.pdb
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\Cards.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons17\Cards\obj\Debug\net10.0\ref\Cards.dll

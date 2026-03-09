@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lesson16\Dictionary\bin\Debug\net10.0\Dictionary.exe
+F:\C#\HomeworkProjects\Lesson16\Dictionary\bin\Debug\net10.0\Dictionary.deps.json
+F:\C#\HomeworkProjects\Lesson16\Dictionary\bin\Debug\net10.0\Dictionary.runtimeconfig.json
+F:\C#\HomeworkProjects\Lesson16\Dictionary\bin\Debug\net10.0\Dictionary.dll
+F:\C#\HomeworkProjects\Lesson16\Dictionary\bin\Debug\net10.0\Dictionary.pdb
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.sourcelink.json
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.dll
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\refint\Dictionary.dll
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.pdb
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\Dictionary.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lesson16\Dictionary\obj\Debug\net10.0\ref\Dictionary.dll

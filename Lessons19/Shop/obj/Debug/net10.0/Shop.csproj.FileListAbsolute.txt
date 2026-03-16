@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.sourcelink.json
+F:\C#\HomeworkProjects\Lessons19\Shop\bin\Debug\net10.0\Shop.exe
+F:\C#\HomeworkProjects\Lessons19\Shop\bin\Debug\net10.0\Shop.deps.json
+F:\C#\HomeworkProjects\Lessons19\Shop\bin\Debug\net10.0\Shop.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons19\Shop\bin\Debug\net10.0\Shop.dll
+F:\C#\HomeworkProjects\Lessons19\Shop\bin\Debug\net10.0\Shop.pdb
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.dll
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\refint\Shop.dll
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.pdb
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\Shop.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons19\Shop\obj\Debug\net10.0\ref\Shop.dll

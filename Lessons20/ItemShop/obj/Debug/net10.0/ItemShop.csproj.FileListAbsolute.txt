@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons20\ItemShop\bin\Debug\net10.0\ItemShop.exe
+F:\C#\HomeworkProjects\Lessons20\ItemShop\bin\Debug\net10.0\ItemShop.deps.json
+F:\C#\HomeworkProjects\Lessons20\ItemShop\bin\Debug\net10.0\ItemShop.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons20\ItemShop\bin\Debug\net10.0\ItemShop.dll
+F:\C#\HomeworkProjects\Lessons20\ItemShop\bin\Debug\net10.0\ItemShop.pdb
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.sourcelink.json
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.dll
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\refint\ItemShop.dll
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.pdb
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ItemShop.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons20\ItemShop\obj\Debug\net10.0\ref\ItemShop.dll

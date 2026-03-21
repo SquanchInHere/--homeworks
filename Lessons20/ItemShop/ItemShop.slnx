@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TodoList/TodoList.csproj" Id="d7848d5f-b202-422a-b309-ce3df777cff2" />
+  <Project Path="ItemShop.csproj" />
+</Solution>

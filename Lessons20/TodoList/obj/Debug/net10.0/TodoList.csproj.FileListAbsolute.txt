@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.sourcelink.json
+F:\C#\HomeworkProjects\Lessons20\TodoList\bin\Debug\net10.0\TodoList.exe
+F:\C#\HomeworkProjects\Lessons20\TodoList\bin\Debug\net10.0\TodoList.deps.json
+F:\C#\HomeworkProjects\Lessons20\TodoList\bin\Debug\net10.0\TodoList.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons20\TodoList\bin\Debug\net10.0\TodoList.dll
+F:\C#\HomeworkProjects\Lessons20\TodoList\bin\Debug\net10.0\TodoList.pdb
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.dll
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\refint\TodoList.dll
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.pdb
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\TodoList.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons20\TodoList\obj\Debug\net10.0\ref\TodoList.dll

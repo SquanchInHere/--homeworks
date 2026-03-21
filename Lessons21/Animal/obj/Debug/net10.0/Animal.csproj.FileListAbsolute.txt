@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons21\Animal\bin\Debug\net10.0\Animal.exe
+F:\C#\HomeworkProjects\Lessons21\Animal\bin\Debug\net10.0\Animal.deps.json
+F:\C#\HomeworkProjects\Lessons21\Animal\bin\Debug\net10.0\Animal.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons21\Animal\bin\Debug\net10.0\Animal.dll
+F:\C#\HomeworkProjects\Lessons21\Animal\bin\Debug\net10.0\Animal.pdb
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.sourcelink.json
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.dll
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\refint\Animal.dll
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.pdb
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\Animal.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons21\Animal\obj\Debug\net10.0\ref\Animal.dll

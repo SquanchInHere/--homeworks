@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\bin\Debug\net10.0\MoneyProduct.exe
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\bin\Debug\net10.0\MoneyProduct.deps.json
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\bin\Debug\net10.0\MoneyProduct.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\bin\Debug\net10.0\MoneyProduct.dll
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\bin\Debug\net10.0\MoneyProduct.pdb
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.sourcelink.json
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.dll
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\refint\MoneyProduct.dll
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.pdb
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\MoneyProduct.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons21\MoneyProduct\obj\Debug\net10.0\ref\MoneyProduct.dll

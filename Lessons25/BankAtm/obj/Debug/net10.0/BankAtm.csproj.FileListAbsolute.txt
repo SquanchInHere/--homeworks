@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons25\BankAtm\bin\Debug\net10.0\BankAtm.exe
+F:\C#\HomeworkProjects\Lessons25\BankAtm\bin\Debug\net10.0\BankAtm.deps.json
+F:\C#\HomeworkProjects\Lessons25\BankAtm\bin\Debug\net10.0\BankAtm.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons25\BankAtm\bin\Debug\net10.0\BankAtm.dll
+F:\C#\HomeworkProjects\Lessons25\BankAtm\bin\Debug\net10.0\BankAtm.pdb
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.sourcelink.json
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.dll
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\refint\BankAtm.dll
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.pdb
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\BankAtm.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons25\BankAtm\obj\Debug\net10.0\ref\BankAtm.dll

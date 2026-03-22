@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons24\Chipher\bin\Debug\net10.0\Cipher.exe
+F:\C#\HomeworkProjects\Lessons24\Chipher\bin\Debug\net10.0\Cipher.deps.json
+F:\C#\HomeworkProjects\Lessons24\Chipher\bin\Debug\net10.0\Cipher.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons24\Chipher\bin\Debug\net10.0\Cipher.dll
+F:\C#\HomeworkProjects\Lessons24\Chipher\bin\Debug\net10.0\Cipher.pdb
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.sourcelink.json
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.dll
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\refint\Cipher.dll
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.pdb
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\Cipher.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons24\Chipher\obj\Debug\net10.0\ref\Cipher.dll

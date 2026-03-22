@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\bin\Debug\net10.0\CatalogLib.exe
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\bin\Debug\net10.0\CatalogLib.deps.json
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\bin\Debug\net10.0\CatalogLib.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\bin\Debug\net10.0\CatalogLib.dll
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\bin\Debug\net10.0\CatalogLib.pdb
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.sourcelink.json
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.dll
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\refint\CatalogLib.dll
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.pdb
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\CatalogLib.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons23\CatalogLib\obj\Debug\net10.0\ref\CatalogLib.dll

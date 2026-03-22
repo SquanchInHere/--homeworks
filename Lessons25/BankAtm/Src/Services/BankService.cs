@@ -1,7 +1,4 @@
 ﻿using BankAtm.Src.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace BankAtm.Src.Services
 {

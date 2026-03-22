@@ -1,8 +1,5 @@
 ﻿using BankAtm.Src.Exceptions;
 using BankAtm.Src.Services;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace BankAtm.Src
 {

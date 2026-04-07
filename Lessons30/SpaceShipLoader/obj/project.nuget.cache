@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKddFI1Q/Os=",
+  "success": true,
+  "projectFilePath": "F:\\C#\\HomeworkProjects\\Lessons30\\SpaceShipLoader\\SpaceShipLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Koldo\\.nuget\\packages\\spectre.console\\0.55.0\\spectre.console.0.55.0.nupkg.sha512",
+    "C:\\Users\\Koldo\\.nuget\\packages\\spectre.console.ansi\\0.55.0\\spectre.console.ansi.0.55.0.nupkg.sha512"
+  ],
+  "logs": []
+}

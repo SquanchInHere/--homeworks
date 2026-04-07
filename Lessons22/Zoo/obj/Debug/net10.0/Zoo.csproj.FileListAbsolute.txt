@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.sourcelink.json
+F:\C#\HomeworkProjects\Lessons22\Zoo\bin\Debug\net10.0\Zoo.exe
+F:\C#\HomeworkProjects\Lessons22\Zoo\bin\Debug\net10.0\Zoo.deps.json
+F:\C#\HomeworkProjects\Lessons22\Zoo\bin\Debug\net10.0\Zoo.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons22\Zoo\bin\Debug\net10.0\Zoo.dll
+F:\C#\HomeworkProjects\Lessons22\Zoo\bin\Debug\net10.0\Zoo.pdb
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.dll
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\refint\Zoo.dll
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.pdb
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\Zoo.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons22\Zoo\obj\Debug\net10.0\ref\Zoo.dll

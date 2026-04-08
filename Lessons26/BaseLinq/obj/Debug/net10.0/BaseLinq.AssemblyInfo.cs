@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb86feaf290ce70ed0d1122f3e009b3dfbddf68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08897a4b0ef2ea968bcc6a685b25e8ae0c6bf075")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

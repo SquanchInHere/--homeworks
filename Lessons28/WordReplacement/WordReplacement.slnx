@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../RecipeBook/RecipeBook.csproj" />
+  <Project Path="../TextModerator/TextModerator.csproj" />
+  <Project Path="WordReplacement.csproj" />
+</Solution>

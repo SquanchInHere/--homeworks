@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons28\TextModerator\bin\Debug\net10.0\TextModerator.exe
+F:\C#\HomeworkProjects\Lessons28\TextModerator\bin\Debug\net10.0\TextModerator.deps.json
+F:\C#\HomeworkProjects\Lessons28\TextModerator\bin\Debug\net10.0\TextModerator.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons28\TextModerator\bin\Debug\net10.0\TextModerator.dll
+F:\C#\HomeworkProjects\Lessons28\TextModerator\bin\Debug\net10.0\TextModerator.pdb
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.sourcelink.json
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.dll
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\refint\TextModerator.dll
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.pdb
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\TextModerator.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons28\TextModerator\obj\Debug\net10.0\ref\TextModerator.dll

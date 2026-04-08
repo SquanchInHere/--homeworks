@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.sourcelink.json
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\bin\Debug\net10.0\RecipeBook.exe
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\bin\Debug\net10.0\RecipeBook.deps.json
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\bin\Debug\net10.0\RecipeBook.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\bin\Debug\net10.0\RecipeBook.dll
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\bin\Debug\net10.0\RecipeBook.pdb
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.dll
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\refint\RecipeBook.dll
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.pdb
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\RecipeBook.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons28\RecipeBook\obj\Debug\net10.0\ref\RecipeBook.dll

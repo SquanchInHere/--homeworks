@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "Caesar Salad",
+    "Cuisine": "Italian",
+    "Ingredients": [
+      {
+        "Name": "Chicken",
+        "Calories": 200
+      },
+      {
+        "Name": "Lettuce",
+        "Calories": 30
+      },
+      {
+        "Name": "Parmesan",
+        "Calories": 100
+      }
+    ],
+    "CookingTimeMinutes": 20,
+    "Steps": [
+      "Cut the chicken.",
+      "Wash the lettuce.",
+      "Mix all ingredients."
+    ],
+    "DishType": 1,
+    "TotalCalories": 330
+  },
+  {
+    "Name": "Miso Soup",
+    "Cuisine": "Japanese",
+    "Ingredients": [
+      {
+        "Name": "Miso paste",
+        "Calories": 60
+      },
+      {
+        "Name": "Tofu",
+        "Calories": 80
+      },
+      {
+        "Name": "Seaweed",
+        "Calories": 20
+      }
+    ],
+    "CookingTimeMinutes": 15,
+    "Steps": [
+      "Boil water.",
+      "Add miso paste.",
+      "Add tofu and seaweed."
+    ],
+    "DishType": 2,
+    "TotalCalories": 160
+  }
+]

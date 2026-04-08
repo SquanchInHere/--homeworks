@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\bin\Debug\net10.0\WordReplacement.exe
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\bin\Debug\net10.0\WordReplacement.deps.json
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\bin\Debug\net10.0\WordReplacement.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\bin\Debug\net10.0\WordReplacement.dll
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\bin\Debug\net10.0\WordReplacement.pdb
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.sourcelink.json
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.dll
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\refint\WordReplacement.dll
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.pdb
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\WordReplacement.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons28\WordReplacement\obj\Debug\net10.0\ref\WordReplacement.dll

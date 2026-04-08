@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\bin\Debug\net10.0\EnterLinq.exe
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\bin\Debug\net10.0\EnterLinq.deps.json
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\bin\Debug\net10.0\EnterLinq.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\bin\Debug\net10.0\EnterLinq.dll
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\bin\Debug\net10.0\EnterLinq.pdb
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.sourcelink.json
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.dll
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\refint\EnterLinq.dll
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.pdb
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\EnterLinq.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons27\EnterLinq\obj\Debug\net10.0\ref\EnterLinq.dll

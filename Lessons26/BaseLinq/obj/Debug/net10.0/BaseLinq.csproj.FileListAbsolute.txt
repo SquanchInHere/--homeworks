@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.sourcelink.json
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\bin\Debug\net10.0\BaseLinq.exe
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\bin\Debug\net10.0\BaseLinq.deps.json
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\bin\Debug\net10.0\BaseLinq.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\bin\Debug\net10.0\BaseLinq.dll
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\bin\Debug\net10.0\BaseLinq.pdb
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.dll
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\refint\BaseLinq.dll
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.pdb
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\BaseLinq.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons26\BaseLinq\obj\Debug\net10.0\ref\BaseLinq.dll

@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons29\Album\bin\Debug\net10.0\Album.exe
+F:\C#\HomeworkProjects\Lessons29\Album\bin\Debug\net10.0\Album.deps.json
+F:\C#\HomeworkProjects\Lessons29\Album\bin\Debug\net10.0\Album.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons29\Album\bin\Debug\net10.0\Album.dll
+F:\C#\HomeworkProjects\Lessons29\Album\bin\Debug\net10.0\Album.pdb
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.sourcelink.json
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.dll
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\refint\Album.dll
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.pdb
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\Album.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons29\Album\obj\Debug\net10.0\ref\Album.dll

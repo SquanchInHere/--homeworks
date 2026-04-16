@@ -1,0 +1,15 @@
+F:\C#\HomeworkProjects\Lessons29\Recipe\bin\Debug\net8.0\Recipe.exe
+F:\C#\HomeworkProjects\Lessons29\Recipe\bin\Debug\net8.0\Recipe.deps.json
+F:\C#\HomeworkProjects\Lessons29\Recipe\bin\Debug\net8.0\Recipe.runtimeconfig.json
+F:\C#\HomeworkProjects\Lessons29\Recipe\bin\Debug\net8.0\Recipe.dll
+F:\C#\HomeworkProjects\Lessons29\Recipe\bin\Debug\net8.0\Recipe.pdb
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.AssemblyInfoInputs.cache
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.AssemblyInfo.cs
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.csproj.CoreCompileInputs.cache
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.sourcelink.json
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.dll
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\refint\Recipe.dll
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.pdb
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\Recipe.genruntimeconfig.cache
+F:\C#\HomeworkProjects\Lessons29\Recipe\obj\Debug\net8.0\ref\Recipe.dll

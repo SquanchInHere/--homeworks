@@ -1,0 +1,94 @@
+[
+  {
+    "Id": "11111111-1111-1111-1111-111111111111",
+    "RecipeName": "Caesar Salad",
+    "CuisineName": "Italian",
+    "Ingredients": [
+      {
+        "Name": "Chicken",
+        "Calories": 200
+      },
+      {
+        "Name": "Lettuce",
+        "Calories": 30
+      },
+      {
+        "Name": "Croutons",
+        "Calories": 100
+      },
+      {
+        "Name": "Caesar Sauce",
+        "Calories": 150
+      }
+    ],
+    "CookingTimeMinutes": 20,
+    "CookingSteps": [
+      "Cook the chicken.",
+      "Wash and cut the lettuce.",
+      "Add croutons.",
+      "Mix with Caesar sauce."
+    ],
+    "DishType": "Salad",
+    "TotalCalories": 480
+  },
+  {
+    "Id": "22222222-2222-2222-2222-222222222222",
+    "RecipeName": "Miso Soup",
+    "CuisineName": "Japanese",
+    "Ingredients": [
+      {
+        "Name": "Miso Paste",
+        "Calories": 80
+      },
+      {
+        "Name": "Tofu",
+        "Calories": 70
+      },
+      {
+        "Name": "Seaweed",
+        "Calories": 20
+      }
+    ],
+    "CookingTimeMinutes": 15,
+    "CookingSteps": [
+      "Boil water.",
+      "Add miso paste.",
+      "Add tofu.",
+      "Add seaweed and simmer."
+    ],
+    "DishType": "FirstCourse",
+    "TotalCalories": 170
+  },
+  {
+    "Id": "33333333-3333-3333-3333-333333333333",
+    "RecipeName": "Cheesecake",
+    "CuisineName": "American",
+    "Ingredients": [
+      {
+        "Name": "Cream Cheese",
+        "Calories": 300
+      },
+      {
+        "Name": "Sugar",
+        "Calories": 150
+      },
+      {
+        "Name": "Eggs",
+        "Calories": 140
+      },
+      {
+        "Name": "Biscuits",
+        "Calories": 180
+      }
+    ],
+    "CookingTimeMinutes": 60,
+    "CookingSteps": [
+      "Prepare the biscuit base.",
+      "Mix cream cheese, sugar, and eggs.",
+      "Pour mixture onto the base.",
+      "Bake until ready."
+    ],
+    "DishType": "Dessert",
+    "TotalCalories": 770
+  }
+]

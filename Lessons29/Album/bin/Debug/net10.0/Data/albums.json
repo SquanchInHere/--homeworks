@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "6f3d5f8f-a8f4-4fe4-98ec-7b5d7ea9f0b1",
+    "AlbumTitle": "Hybrid Theory",
+    "ArtistName": "Linkin Park",
+    "ReleaseYear": 2000,
+    "StudioName": "Warner Bros.",
+    "Songs": [
+      {
+        "Id": "d0d5b12a-0c73-4103-a941-762fcd63fd1a",
+        "Title": "In the End",
+        "DurationSeconds": 216,
+        "LyricsFilePath": "Data/lyrics/in_the_end.txt"
+      },
+      {
+        "Id": "b6d8c5db-26cb-42d8-bff2-d7d84098f0f5",
+        "Title": "Crawling",
+        "DurationSeconds": 209,
+        "LyricsFilePath": "Data/lyrics/crawling.txt"
+      }
+    ],
+    "TotalDurationSeconds": 425
+  },
+  {
+    "Id": "a34ef0ff-2bdf-45dd-8fc8-4872cd2c0db9",
+    "AlbumTitle": "Thriller",
+    "ArtistName": "Michael Jackson",
+    "ReleaseYear": 1982,
+    "StudioName": "Epic Records",
+    "Songs": [
+      {
+        "Id": "a2a44db5-75a3-4af8-9dda-6e61010b0ba2",
+        "Title": "Beat It",
+        "DurationSeconds": 258,
+        "LyricsFilePath": "Data/lyrics/beat_it.txt"
+      },
+      {
+        "Id": "7c7091b5-5f1b-4b5e-bc0a-62edfd4ca0e7",
+        "Title": "Thriller",
+        "DurationSeconds": 357,
+        "LyricsFilePath": null
+      }
+    ],
+    "TotalDurationSeconds": 615
+  }
+]

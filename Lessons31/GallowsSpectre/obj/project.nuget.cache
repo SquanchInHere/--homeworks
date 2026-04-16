@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvUnNOjj73I=",
+  "success": true,
+  "projectFilePath": "F:\\C#\\HomeworkProjects\\Lessons31\\GallowsSpectre\\GallowsSpectre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Koldo\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
